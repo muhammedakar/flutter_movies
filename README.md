@@ -8,10 +8,21 @@
 ...
 
 ## In-App Images
-<a><img src="https://user-images.githubusercontent.com/99355169/169771352-d41bc430-7272-4ee0-8add-ae9427583db8.jpg" align="left" height="360" width="190" ></a>
+<a><img src="https://user-images.githubusercontent.com/99355169/169771352-d41bc430-7272-4ee0-8add-ae9427583db8.jpg" align="left" height="542" width="262" ></a>
 
-<a><img src="https://user-images.githubusercontent.com/99355169/169772022-be3eaa40-59de-4fe8-bc60-b14effa3ca0e.jpg" align="left" height="360" width="190" ></a>
-
+<a><img src="https://user-images.githubusercontent.com/99355169/169772022-be3eaa40-59de-4fe8-bc60-b14effa3ca0e.jpg" align="left" height="542" width="262" ></a>
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
+  ### .
 ## Setup
 
 - You need to add the following packages to pubspec.yaml file
@@ -25,8 +36,7 @@
   blurrycontainer: ^1.0.2
   carousel_slider: ^4.1.1
   ```
-    ## .
-    
+  
 ## Configure
 
 you need to take a api-token from https://www.themoviedb.org/

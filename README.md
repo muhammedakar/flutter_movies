@@ -1,6 +1,7 @@
 # Movies App - Flutter
 
 
+## Connect with me
 
 <a href="https://www.linkedin.com/in/muhammed-akar-9a0036155/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" align="left" height="24" width="24" ></a>
 <a href="https://stackoverflow.com/users/15971548/muhammed-akar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" align="left" height="24" width="24" ></a>
@@ -25,7 +26,7 @@
   ### .
 ## Setup
 
-- You need to add the following packages to pubspec.yaml file
+You need to add the following packages to pubspec.yaml file
 
    ```
   cupertino_icons: ^1.0.2

@@ -2,8 +2,9 @@ import 'package:dio/dio.dart';
 import 'package:movies/products/popular_movies.dart';
 
 class PopularRequest {
+  String apiToken= ""; // you can take api-key in this link https://www.themoviedb.org/
   String url(String category) =>
-      "https://api.themoviedb.org/3/movie/$category?{api-Key}=tr"; // you can take api-key in this link https://www.themoviedb.org/
+      "https://api.themoviedb.org/3/movie/$category?$apiToken=tr"; 
 
   Future<List<PopularMovies>> moviesList(String category) async {
     Response response = await Dio().get(url(category));
